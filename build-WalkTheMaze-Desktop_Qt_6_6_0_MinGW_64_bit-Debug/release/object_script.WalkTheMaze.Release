@@ -1,0 +1,13 @@
+release/editmazewindow.o
+release/main.o
+release/mainwindow.o
+release/mazepushbutton.o
+release/mazewindow.o
+release/mypushbuttom.o
+release/point.o
+release/qrc_res.o
+release/moc_editmazewindow.o
+release/moc_mainwindow.o
+release/moc_mazepushbutton.o
+release/moc_mazewindow.o
+release/moc_mypushbuttom.o

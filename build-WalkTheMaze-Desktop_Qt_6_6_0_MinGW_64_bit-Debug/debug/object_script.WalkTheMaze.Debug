@@ -1,0 +1,13 @@
+debug/editmazewindow.o
+debug/main.o
+debug/mainwindow.o
+debug/mazepushbutton.o
+debug/mazewindow.o
+debug/mypushbuttom.o
+debug/point.o
+debug/qrc_res.o
+debug/moc_editmazewindow.o
+debug/moc_mainwindow.o
+debug/moc_mazepushbutton.o
+debug/moc_mazewindow.o
+debug/moc_mypushbuttom.o
